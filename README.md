@@ -1,2 +1,2 @@
 # SeleniumPrj-ForgotPassword
-selenium program for 
+selenium program for the testing of forgot password link
